@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.timmy.tdialog:tdialog:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b69f9c6609bd2717a1133603f05cbf8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b69f9c6609bd2717a1133603f05cbf8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.timmy.tdialog/tdialog/2.1.1/77ce8a8e6f5aae943e56f5fbd3f3f8f1a1e6613c/tdialog-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
